@@ -8,7 +8,7 @@
 
     $parking->setslots();
 
-   		
+   	echo 'test';		
 
 
 ?>
